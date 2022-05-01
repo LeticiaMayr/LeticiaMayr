@@ -22,3 +22,5 @@
   <img alt="Leti's jest" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img alt="Leti's git" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
+
+  ![Snake animation](https://github.com/LeticiaMayr/LeticiaMayr/blob/output/github-contribution-grid-snake.svg)
