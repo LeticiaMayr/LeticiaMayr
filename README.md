@@ -10,6 +10,5 @@
 
 <div>
   <a href="https://github.com/LeticiaMayr">
-  <img height="180em" src="[![Leti's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaMayr)](https://github.com/LeticiaMayr/github-readme-stats)"/>
-  <img height="180em" src="![Leti's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaMayr&hide=contribs,prs)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMayr&hide=contribs,prs"/>
 </div>
