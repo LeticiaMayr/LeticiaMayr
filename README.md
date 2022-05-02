@@ -8,11 +8,15 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm into cats, guitars and anime
 
+## Some of my stats
+
 <div>
   <a href="https://github.com/LeticiaMayr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMayr&show_icons=true&include_all_commits=true&theme=dracula&hide=contribs,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMayr&layout=compact&theme=dracula"/>
 </div>
+
+## Techs i'm confortable to speak of  
 
 <div style="display: inline_block"><br>
   <img alt="Leti's html5" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
