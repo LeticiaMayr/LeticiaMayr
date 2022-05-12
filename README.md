@@ -31,8 +31,8 @@ const Leticia = {
 
 <div align="center">
   <a href="https://github.com/LeticiaMayr">
-  <img widtht="45%" src="https://github-readme-stats.vercel.app/api?username=LeticiaMayr&show_icons=true&include_all_commits=true&theme=dracula&hide=contribs,prs"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMayr&layout=compact&theme=dracula"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=LeticiaMayr&show_icons=true&include_all_commits=true&theme=dracula&hide=contribs,prs"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMayr&layout=compact&theme=dracula"/>
 </div>
 
 <h2>Techs i'm confortable to speak of</h2> 
