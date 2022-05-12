@@ -2,7 +2,9 @@
 
 <p>I'm a front-end dev currently working on my portfolio and studying some backend skills. I'm 24 years old and from Rio de Janeiro, Brazil. Quite a nerd, i decided to quit my physics major to study economics and suddenly found myself falling for programming so i joined Trybe to study web development! I'm really curious and kind, you can reach me out and find more info bellow! :)</p>
 <br>
-<a href="https://www.linkedin.com/in/leticia-mayr" target="_blank" rel="external"><img src="./powerpuffme.jfif" alt="Linkedin" width="320" align="right" alt="Powerpuff letícia"></a>
+<a href="https://www.linkedin.com/in/leticia-mayr" target="_blank" rel="external">
+  <img src="./powerpuffme.jfif" alt="Linkedin" width="320" align="right" alt="Powerpuff letícia">
+</a>
 
 ```JavaScript
 const Leticia = {
