@@ -1,24 +1,41 @@
-## Helloooo, i'm Letícia Mayr
+<h1 align="center">Hello, i'm Leti!</h1>
 
-- 🔭 I’m currently working on my front-end portfolio.
-- 🌱 I’m currently learning Docker and SQL.
-- 🤔 I’m looking for help with back-end. I appreciate all hints you think might be important.
-- 💬 Ask me about Javascript, CSS, HTML, React.js, Jest, git...
-- 📫 How to reach me: fmsornellas@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm into cats, guitars and anime
+<p>I'm a front-end dev currently working on my portfolio and studying some backend skills. I'm 24 years old and from Rio de Janeiro, Brazil. Quite a nerd, i decided to quit my physics major to study economics and suddenly found myself falling for programming so i joined Trybe to study web development! I'm really curious and kind, you can reach me out and find more info bellow! :)</p>
+<br>
+<img src="./powerpuffme.jfif" alt="Linkedin" width="320" align="right">
 
-## Some of my stats
+```JavaScript
+const Leticia = {
+  name: "Letícia Mayr",
+  callMe: "Leti",
+  age: "24 yo",
+  hardskills: ["HTML", "CSS", "JavaScript", "Jsx", "React", "RTL", "Git"],
+  learning: ["Docker", "MySQL", "Node.js"],
+  likes: ["anime", "cats", "guitars"],
+ };
+ 
+ function reachMeOut() {
+  if (linkedIn) {
+    clickTheImage();
+  } else {
+    return 'fmsornellas@gmail.com';
+  }
+ };
+```
 
-<div>
+</span>
+<br>
+<h2>Some of my stats</h2>
+
+<div align="center">
   <a href="https://github.com/LeticiaMayr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMayr&show_icons=true&include_all_commits=true&theme=dracula&hide=contribs,prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMayr&layout=compact&theme=dracula"/>
+  <img widtht="45%" src="https://github-readme-stats.vercel.app/api?username=LeticiaMayr&show_icons=true&include_all_commits=true&theme=dracula&hide=contribs,prs"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMayr&layout=compact&theme=dracula"/>
 </div>
 
-## Techs i'm confortable to speak of  
+<h2>Techs i'm confortable to speak of</h2> 
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img alt="Leti's html5" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img alt="Leti's css3" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img alt="Leti's javascript" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -26,9 +43,3 @@
   <img alt="Leti's jest" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img alt="Leti's git" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
-
-<!--
-<div>
-  ![Snake animation](https://github.com/LeticiaMayr/LeticiaMayr/blob/output/github-contribution-grid-snake.svg)
-</div>
->
