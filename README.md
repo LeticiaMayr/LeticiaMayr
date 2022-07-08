@@ -10,7 +10,7 @@
 const Leticia = {
   name: "Letícia Mayr",
   callMe: "Leti",
-  age: "24 yo",
+  age: "25 yo",
   hardskills: ["HTML", "CSS", "JavaScript", "Jsx", "React", "RTL", "Git"],
   learning: ["Docker", "MySQL", "Node.js"],
   likes: ["anime", "cats", "guitars"],
